@@ -1,3 +1,7 @@
+Carl Leipoldt, 30232595
+Aaron Kim, 30212741
+
+
 import logo from './logo.svg';
 import './App.css';
 import { useState } from "react";
